@@ -1,1 +1,3 @@
-# My-Karel
+# My Karel
+
+<img src="myk.png">
